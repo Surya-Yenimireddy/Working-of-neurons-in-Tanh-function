@@ -6,3 +6,7 @@ Regularization rate is 0.003, though no specific regularization method is applie
 Batch size is set to 10.
 Noise level is set to 5 to increase the complexity of the data.
 The training to test data split is set at 70% training and 30% test data.
+The output visualization shows the classification boundaries formed by the network.
+Test loss is 0.509, while the training loss is 0.324, showing that the model is still generalizing to the test data.
+The color gradient shows neuron and weight values influencing the final classification decision.
+This visual demonstration provides insight into the inner workings of a neural network while training on non-linear data.
